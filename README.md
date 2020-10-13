@@ -34,4 +34,4 @@ To set up an environment in Visual Studio Code on Windows:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dcmoss87/Python-List-Manipulation/blob/main/LICENSE) file for details.
