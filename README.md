@@ -4,16 +4,17 @@
 
 This is a program that allows the user to perform simple manipulations or actions on a list in Python.
 
-##Table of Contents
-[Installing]()
-[Author]()
-[License]()
+## Table of Contents
+
+1. [Installing](https://github.com/dcmoss87/Python-List-Manipulation/blob/main/README.md#installation)
+2. [Author](https://github.com/dcmoss87/Python-List-Manipulation/blob/main/README.md#author)
+3. [License](https://github.com/dcmoss87/Python-List-Manipulation/blob/main/README.md#license)
 
 ## Getting Started
 
 This project was developed using [Repl.it](https://repl.it/) and [Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows).
 
-### Installing
+### Installation
 
 To set up an environment in repl.it:
 
