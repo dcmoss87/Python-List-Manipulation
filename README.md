@@ -1,6 +1,13 @@
 # Python-List-Manipulation
 
+## Description
+
 This is a program that allows the user to perform simple manipulations or actions on a list in Python.
+
+##Table of Contents
+[Installing]()
+[Author]()
+[License]()
 
 ## Getting Started
 
