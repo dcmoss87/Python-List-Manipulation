@@ -273,4 +273,3 @@ choice = 0
 
 if __name__=='__main__':
     menu(myList, choice)
-© 2021 GitHub, Inc.
